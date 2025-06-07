@@ -21,6 +21,11 @@ For mobile phones, it is best to enter the settings interface to switch to soft 
 ## Telegram Group
 https://t.me/yourtvapp<br>
 <img src="./tgyourtv.jpg" alt="image" width="200"/>
+<img src="./527.jpg" alt="image"/><br>
+<img src="./528.jpg" alt="image"/><br>
+<img src="./529.jpg" alt="image"/><br>
+<img src="./530.jpg" alt="image"/><br>
+<img src="./531.jpg" alt="image"/><br>
 ## Update History<br>
 ### Updated on June 7, 2025<br>
 Added live source file caching and switching functions<br>
