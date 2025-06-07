@@ -21,6 +21,9 @@ https://yourtvcrypto.horsenma.net<br>
 ## 電報群組
 https://t.me/yourtvapp<br>
 <img src="./tgyourtv.jpg" alt="image" width="200"/>
+<img src="./527.jpg" alt="image"/>
+<img src="./528.jpg" alt="image"/>
+<img src="./529.jpg" alt="image"/>
 ## 更新歷史
 ###  2025年6月7日更新<br>
 增加直播源文件緩存和切換功能<br>
