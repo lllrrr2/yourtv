@@ -22,6 +22,9 @@ https://yourtvcrypto.horsenma.net<br>
 https://t.me/yourtvapp<br>
 <img src="./tgyourtv.jpg" alt="image" width="200"/>
 ## 更新歷史
+###  2025年6月7日更新<br>
+增加直播源文件緩存和切換功能<br>
+Menu菜單第一行顯示直播源文件切換<br>
 ###  2025年6月4日更新<br>
 修複UI畫麵，統一化和透明化<br>
 IPTV解析邏輯優化<br>
