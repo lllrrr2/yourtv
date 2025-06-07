@@ -24,7 +24,8 @@ https://t.me/yourtvapp<br>
 ## Update History<br>
 ### Updated on June 7, 2025<br>
 Added live source file caching and switching functions<br>
-The first line of the Menu menu displays the live source file switching<br>
+The first line of the Menu shows the live source file switching<br>
+Triggered by clicking the live source file name more than 4 times<br>
 ### Updated on June 4, 2025<br>
 Improved UI, unified and transparent<br>
 Optimized IPTV parsing logic<br>
