@@ -2,7 +2,7 @@
 
 - [🇨🇳 中文說明](README.MD)
 - [🇺🇸 English Version](README.en.md)
-# 你的電視
+# 你的電視：安卓電視直播APK
 
 IPTV/網頁視頻播放安卓APK軟件，内置数千直播源，可自定義源，IPTV支持畫中畫和熄屏播放。
 [yourtv](https://github.com/horsemail/yourtv)
