@@ -22,6 +22,9 @@ For mobile phones, it is best to enter the settings interface to switch to soft 
 https://t.me/yourtvapp<br>
 <img src="./tgyourtv.jpg" alt="image" width="200"/>
 ## Update History<br>
+### Updated on June 7, 2025<br>
+Added live source file caching and switching functions<br>
+The first line of the Menu menu displays the live source file switching<br>
 ### Updated on June 4, 2025<br>
 Improved UI, unified and transparent<br>
 Optimized IPTV parsing logic<br>
