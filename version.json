@@ -1,7 +1,7 @@
 {
-  "version_code": 20309,
-  "version_name": "2.3.9",
-  "apk_url": "https://github.com/horsemail/yourtv/releases/download/v2.3.9/yourtv_v2.3.9.apk",
-  "apk_name": "yourtv_v2.3.9.apk",
+  "version_code": 20400,
+  "version_name": "2.4.0",
+  "apk_url": "https://github.com/horsemail/yourtv/releases/download/v2.4.0/yourtv_v2.4.0.apk",
+  "apk_name": "yourtv_v2.4.0.apk",
   "description": "註冊用戶每日都可不限時長使用高級功能\n修復下載直播源和其他已知BUG"
 }
