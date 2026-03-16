@@ -3,5 +3,5 @@
   "version_name": "2.4.0",
   "apk_url": "https://github.com/horsemail/yourtv/releases/download/v2.4.0/yourtv_v2.4.0.apk",
   "apk_name": "yourtv_v2.4.0.apk",
-  "description": "註冊用戶每日都可不限時長使用高級功能\n修復下載直播源和其他已知BUG"
+  "description": "擴充網頁頻道腳本支持更多網頁頻道\n支持專用加密直播源訂閱鏈接，修正已知BUG"
 }
