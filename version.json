@@ -1,7 +1,7 @@
 {
-  "version_code": 20401,
-  "version_name": "2.4.1",
-  "apk_url": "https://github.com/horsemail/yourtv/releases/download/v2.4.1/yourtv_v2.4.1.apk",
-  "apk_name": "yourtv_v2.4.1.apk",
+  "version_code": 20400,
+  "version_name": "2.4.0",
+  "apk_url": "https://github.com/horsemail/yourtv/releases/download/v2.4.0/yourtv_v2.4.0.apk",
+  "apk_name": "yourtv_v2.4.0.apk",
   "description": "修復頻道菜單中的操作和顯示等的多個BUG\n擴充直播源格式轉換對非標格式的兼容性"
 }
